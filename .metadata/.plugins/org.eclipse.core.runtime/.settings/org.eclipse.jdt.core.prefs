@@ -1,0 +1,20 @@
+JRE_LIB=C\:/Program Files/Java/jre1.8.0_221/lib/rt.jar
+JRE_SRC=
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Java/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Java/jdk-12/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Java/jdk-12/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/wagnc/.p2/pool/plugins/org.junit_4.12.0.v201504281640
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/wagnc/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=12
+org.eclipse.jdt.core.compiler.compliance=12
+org.eclipse.jdt.core.compiler.problem.missingSerialVersion=ignore
+org.eclipse.jdt.core.compiler.release=disabled
+org.eclipse.jdt.core.compiler.source=12
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
+org.eclipse.jdt.core.userLibrary.JAKARTA_SECURITY_LIB=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Java/jdk-12/lib/javax.security.enterprise-api-1.0.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.JAKARTA_SERVLET_LIB=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Java/resources/jar/servlet-api-2.5.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.JSF_LIB=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/commons-beanutils-1.9.4.jar"/>\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/commons-collections-3.2.2.jar"/>\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/commons-digester-1.8.jar"/>\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/commons-logging-1.1.1.jar"/>\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/myfaces-api-2.3.6.jar"/>\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/myfaces-bundle-2.3.6.jar"/>\r\n\t<archive path\="C\:/Java/resources/jsf/myfaces-core-2.3.6-bin/lib/myfaces-impl-2.3.6.jar"/>\r\n</userlibrary>\r\n

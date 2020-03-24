@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+<h:head>
+	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+	<title>WebSockets - chat</title>
+
+</h:head>
+
+<h:body>
+	<h:outputScript library="js" name="script.js" />
+	<h:outputStylesheet library="css" name="style.css"/>
+
+	<h:outputLabel styleClass="label">Nome:</h:outputLabel> <input style="input" id="name" type="text" /> <input style="button" type="button" id="btnConnect" value="Conectar" onclick="connect();" />
+	
+	<div id="chat" style="display: none;">
+		<br /><br />
+		<textarea id="messages" rows="30" cols="100" readonly="readonly" />
+		<br/><br />
+		<h:outputLabel styleClass="label">Mensagem:</h:outputLabel> <input style="input" id="message" type="text" />&nbsp;&nbsp;<input style="button" type="button" value="Enviar" onclick="sendMessage();" />
+		<input style="button" type="button" value="Sair" onclick="closeWebsocket();" />
+	</div>
+
+</h:body>
+</html>

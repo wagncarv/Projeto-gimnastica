@@ -1,0 +1,10 @@
+package br.com.dev.javaee;
+
+import java.io.Serializable;
+
+import javax.enterprise.context.SessionScoped;
+
+@SessionScoped
+public class UserBean implements Serializable {
+
+}

@@ -1,0 +1,8 @@
+package br.com.dev.javaee;
+
+import javax.enterprise.context.ApplicationScoped;
+
+@ApplicationScoped
+public class Config {
+
+}
